@@ -7,7 +7,7 @@
 ## Gráfico de previsão do Preço do Bitcoin para daqui a 365 dias.<br>
 
 ![Previsão 365 dias](https://user-images.githubusercontent.com/95443404/190190687-a13c94cb-c62a-4a21-ac9b-016d47af60d4.png)<br>
-- Usei todo o histórico de preços para ter um resultado mais preciso.
+Usei todo o histórico de preços para ter um resultado mais preciso.
 - Desde o começo do histórico em julho de 2015 até julho de 2017 a previsão de preço manteve a faixa de erro entre 0 a 50%. 
 - Em 19 de julho de 2017 começamos a ver o primeiro pump da moeda.
 - Em 17 de dezembro tivemos o maior preço da moeda até o momento, com o valor de $ 19.000.
